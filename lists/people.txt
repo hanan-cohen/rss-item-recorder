@@ -177,7 +177,7 @@ https://leshoniada.co.il/feed/
 https://psytoolbox.com/feed/
 https://shiftshatil.org.il/feed/
 https://noamsark.org/feed/
-https://northseahummus.wordpress.com/feed/
+https://northseahummus.com/feed/
 https://israeliconstitutionalism.wordpress.com/feed/
 https://shark-lady.com/feed
 https://rafimann.wordpress.com/feed/
@@ -260,3 +260,18 @@ https://quantitatively.club/feed
 https://icel.me/next/feed
 https://imrysadan.com/feed
 https://sorgotbazman.com/feed
+https://algoritmim.co.il/feed
+https://assafzim.wordpress.com/feed
+https://prutot.com/feed
+https://taninzaken.wordpress.com/feed
+https://amihay.wordpress.com/feed
+http://israelbikebus.blogspot.com/feeds/posts/default
+https://www.stlanguage.com/feed
+https://rotemwrites.com/?feed=rss2
+http://www.omerdank-strategy.com/?feed=rss2
+https://hazmanhazeh.org.il/feed
+https://gmatus.com/feed
+https://kerenagam.co.il/feed
+https://srita.net/feed
+https://haminados.wordpress.com/feed
+https://nirhirshman.com/?feed=rss2
